@@ -1,0 +1,131 @@
+body{
+	margin: 0;
+	background-color:
+#3283a8
+ ;
+}
+
+.menu a{
+	color: white;
+	text-decoration: none;
+}
+nav{
+	text-align: right;
+	background-color: black;
+	
+}
+#marka{
+	padding-right: 450px;
+}
+
+.menu .linkler{
+	margin-right: 100px;
+}
+
+.menu:hover{
+	color: #32a889;
+}
+.menu{
+	padding: 20px;
+}
+
+h2,h3{
+	padding-left:50px ;
+}
+
+h1{
+	text-align: center;
+	;
+}
+p{
+	padding-left: 30px;
+}
+
+#foto1,#foto2{
+width: 250px;
+height: 250px;
+margin-right:25px;
+float: left ;
+margin-left: 50px;
+cursor: pointer;
+}
+
+.paragraf{width: 900px;
+	margin: auto;
+}
+ 
+#sertifika1{
+	width: 180px;
+	height: 200px;
+	float: left;
+	cursor: pointer;
+	padding-left: 100px;	
+} 
+#sertifika2{
+	width: 300px;
+	height: 210px;
+	float: ;
+	cursor: pointer;
+	padding-left: 150px;
+
+} 
+#sertifika3{
+	width: 300px;
+	height: 210px;
+	float: right;
+	cursor: pointer;
+	padding-right:100px ;
+} 
+
+.tablo{
+	border: 2px solid #a8329e ;
+	border-radius: 5px;
+	width: 400px;
+	text-align: center;
+}
+
+.paragraf,.paragraf2{
+font-family: Cursive;
+}
+
+.form{
+	border-radius: 8px;
+
+
+}
+
+#baslikiletisim{
+	text-align: center;
+
+}
+
+#form{
+	text-align: center;
+
+}
+
+#buton{
+
+}
+
+.ilk{
+	text-align: center;
+	padding-bottom:px;
+}
+
+#map{
+	float: ;
+}
+
+#bogazici{
+	margin-bottom: 100px ;
+	margin-left: 100px;
+	widt: 90px;
+	height:270px;
+	cursor: pointer;
+	border: 4px solid black;
+}
+
+#shadow{
+	box-shadow: 5px black;
+}
